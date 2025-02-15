@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate frontend developer. Data Scientist. Machine Learning Engineer
+A passionate web developer. Data Scientist. Machine Learning Engineer
 
 
 ## 🌐 Socials:
